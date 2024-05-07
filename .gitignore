@@ -1,3 +1,4 @@
+*.pth
 *.pyc
 *.swp
 __pycache__/
